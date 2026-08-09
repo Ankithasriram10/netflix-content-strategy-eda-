@@ -1,4 +1,4 @@
-# Netflix Content Intelligence — Historical Catalog Analysis
+# Netflix Content Strategy
 
 **[View Live Dashboard](https://mffcfajxppgmeecspjcwzj.streamlit.app/)**
 
