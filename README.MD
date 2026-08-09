@@ -1,6 +1,6 @@
 # Netflix Content Strategy
 
-[![ 🦄 Open Live Dashboard](https://img.shields.io/badge/🦄%20OPEN%20LIVE%20DASHBOARD-00A86B?style=for-the-badge)](https://mffcfajxppgmeecspjcwzj.streamlit.app/)
+[![ OPEN LIVE DASHBOARD](https://img.shields.io/badge/💮 %20OPEN%20LIVE%20DASHBOARD-111827?style=for-the-badge&logo=streamlit&logoColor=white)](https://mffcfajxppgmeecspjcwzj.streamlit.app/)
 
 An interactive content-portfolio intelligence tool built on a historical Netflix catalog
 snapshot (8,807 titles, data through **September 2021**). It surfaces patterns in what's in
