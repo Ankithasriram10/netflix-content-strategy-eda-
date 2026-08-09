@@ -1,8 +1,11 @@
 # Netflix Content Strategy
 
-📌 **Live Demo:** [Open the Dashboard →](https://mffcfajxppgmeecspjcwzj.streamlit.app/)
 
-An interactive content-portfolio intelligence tool built on a historical Netflix catalog
+                      📌 **Live Demo:** [Open the Dashboard →](https://mffcfajxppgmeecspjcwzj.streamlit.app/)
+
+
+
+interactive content-portfolio intelligence tool built on a historical Netflix catalog
 snapshot (8,807 titles, data through **September 2021**). It surfaces patterns in what's in
 the catalog, where it comes from, and how it's changed over time — and translates those
 patterns into business questions worth investigating, rather than predictions or
